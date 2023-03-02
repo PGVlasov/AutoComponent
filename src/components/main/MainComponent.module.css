@@ -1,0 +1,17 @@
+.MainComponent {
+box-sizing: border-box;
+
+position: absolute;
+width: 547px;
+height: 422px;
+left: 380px;
+top: 276px;
+right: 379px;
+bottom: 275px;
+
+background: #FFFFFF;
+
+border: 1px solid #D6DCE6;
+box-shadow: 0px 8px 30px rgba(48, 59, 77, 0.1);
+border-radius: 12px;
+}

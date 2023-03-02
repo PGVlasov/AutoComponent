@@ -1,0 +1,54 @@
+.Button {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 24px;
+
+    background: #268AE5;
+    border: 1px solid #268AE5;
+    border-radius: 5px;
+
+    width: 242px;
+    height: 50px;
+}
+
+.Button:hover {
+    background: #1F7CD1;
+    border: 1px solid #1F7CD1
+}
+
+.Button__pressed{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 24px;
+
+    background: #186DBB;
+    border: 1px solid #186DBB;
+    border-radius: 5px;
+
+    width: 242px;
+    height: 50px;
+}
+
+.Button__notActive{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-right: 24px;
+
+    background: #E8EBEF;
+    border: 1px solid #E8EBEF;
+    border-radius: 5px;
+
+    width: 242px;
+    height: 50px;
+}
+
+.ButtonText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+
+    line-height: 17px;
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,38 @@
+.Amount {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+    height: 50px;
+
+    margin-left: 24px;
+}
+
+.AmountOfItems{
+    width: 77px;
+    height: 14px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+
+    color: #8491A6;
+}
+
+.TotalAmount {
+    width: 157px;
+    height: 14px;
+
+    margin-top: 12px;
+    margin-bottom: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+
+    color: #16253E;
+}
